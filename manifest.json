@@ -7,7 +7,7 @@
     },
     {
       "path": "version.txt",
-      "url": "https://yourcdn.com/files/version.txt"
+      "url": "https://raw.githubusercontent.com/phoenicvr/ToonLandServer/refs/heads/main/version.txt"
     }
   ]
 }
