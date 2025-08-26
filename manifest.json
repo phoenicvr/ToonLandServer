@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "MyGame.exe",
+      "url": "https://yourcdn.com/files/MyGame.exe"
+    },
+    {
+      "path": "version.txt",
+      "url": "https://yourcdn.com/files/version.txt"
+    }
+  ]
+}
